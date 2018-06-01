@@ -8,5 +8,7 @@
                                          
 ```
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://github.com/GitHubNull/autoVote)  
+
+[![Bitbucket Pipelines branch](https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168.svg)](https://github.com/GitHubNull/autoVote/blob/master/README.md)
+  
 auto vote system
