@@ -1,4 +1,6 @@
 # autoVote
+[![Bitbucket Pipelines branch](https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168.svg)](https://github.com/GitHubNull/autoVote/blob/master/README.md)  
+
 ```shell
     _         _     __     __    _       
    / \  _   _| |_ __\ \   / /__ | |_ ___ 
@@ -8,7 +10,5 @@
                                          
 ```
 
-
-[![Bitbucket Pipelines branch](https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168.svg)](https://github.com/GitHubNull/autoVote/blob/master/README.md)
   
 auto vote system
