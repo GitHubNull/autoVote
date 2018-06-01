@@ -1,7 +1,3 @@
-# autoVote
-
-[![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg)](https://github.com/GitHubNull/autoVote)
-
 ```shell
     _         _     __     __    _       
    / \  _   _| |_ __\ \   / /__ | |_ ___ 
@@ -11,5 +7,8 @@
                                          
 ```
 
+# autoVote
+
+[![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg)](https://github.com/GitHubNull/autoVote)
   
 auto vote system
