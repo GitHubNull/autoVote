@@ -8,5 +8,5 @@
                                          
 ```
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://github.com/GitHubNull/autoVote)
+[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://github.com/GitHubNull/autoVote)  
 auto vote system
