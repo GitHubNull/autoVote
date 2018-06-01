@@ -1,8 +1,6 @@
 # autoVote
 
-
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](https://github.com/GitHubNull/autoVote)
-
+[![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg)](https://github.com/GitHubNull/autoVote)
 
 ```shell
     _         _     __     __    _       
