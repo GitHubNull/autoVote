@@ -16,14 +16,11 @@ import (
 )
 
 //var voicecode = "1291528"
-var voidcodeFile = "/root/go_src/voidcode.txt"
-var openidsFile = "/root/go_src/openids.txt"
-var logFile = "/root/go_src/vote_log.txt"
-
-type ResInfo struct {
-	check  bool
-	status bool
-}
+var RootPath = "/root/go_src/"
+var ConfigPath = RootPath + "config/"
+var voidcodeFile = ConfigPath +  "voidcode.txt"
+var openidsFile = ConfigPath + "openids.txt"
+var logFile = RootPath + "vote_log.txt"
 
 func voicecodeReader(fileName string) (string, error) {
 	file, err := os.Open(fileName)
