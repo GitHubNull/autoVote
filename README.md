@@ -25,3 +25,6 @@ git clone https://github.com/GitHubNull/autoVote.git && cd autoVote && ./install
 
 **Note**:You must have installed ***git*** , ***go*** in your  machine.
 
+# TODO
+- Complete webchat_vote/install.sh
+- Complete Modular
